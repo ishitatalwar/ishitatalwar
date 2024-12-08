@@ -29,14 +29,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
-###
+### Connect with me : 
 
 <div align="left">
   <a href="https://www.linkedin.com/in/ishita-talwar/">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-</a>
-
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  <a href="mailto:ishitaatalwar@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=DB4437&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
 </div>
+
 
 ###
 
