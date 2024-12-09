@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ishita and I'm a Software engineer, from SRM University </h2>
+<h2 align="center">Hi 👋! My name is Ishita and I'm a Software engineer, from SRM University </h2>
 
 ###
 
